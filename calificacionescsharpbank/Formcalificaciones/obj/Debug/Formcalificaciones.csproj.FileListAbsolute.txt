@@ -1,0 +1,14 @@
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Formcalificaciones\bin\Debug\Formcalificaciones.exe.config
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Formcalificaciones\bin\Debug\Formcalificaciones.exe
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Formcalificaciones\bin\Debug\Formcalificaciones.pdb
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Formcalificaciones\bin\Debug\Classcalificaciones.dll
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Formcalificaciones\bin\Debug\Classcalificaciones.pdb
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Formcalificaciones\obj\Debug\Formcalificaciones.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Formcalificaciones\obj\Debug\Formcalificaciones.Form1.resources
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Formcalificaciones\obj\Debug\Formcalificaciones.Properties.Resources.resources
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Formcalificaciones\obj\Debug\Formcalificaciones.csproj.GenerateResource.cache
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Formcalificaciones\obj\Debug\Formcalificaciones.csproj.CopyComplete
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Formcalificaciones\obj\Debug\Formcalificaciones.exe
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Formcalificaciones\obj\Debug\Formcalificaciones.pdb
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Formcalificaciones\bin\Debug\Validaciones.dll
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Formcalificaciones\bin\Debug\Validaciones.pdb

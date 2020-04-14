@@ -1,0 +1,5 @@
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Classcalificaciones\bin\Debug\Classcalificaciones.dll
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Classcalificaciones\bin\Debug\Classcalificaciones.pdb
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Classcalificaciones\obj\Debug\Classcalificaciones.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Classcalificaciones\obj\Debug\Classcalificaciones.dll
+C:\Users\DrawH\source\repos\calificacionescsharp\calificacionescsharpbank\Classcalificaciones\obj\Debug\Classcalificaciones.pdb
